@@ -1,0 +1,4 @@
+D:\Project\F#\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.fsproj.AssemblyReference.cache
+D:\Project\F#\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfoInputs.cache
+D:\Project\F#\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfo.fs
+D:\Project\F#\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.fsproj.CoreCompileInputs.cache
